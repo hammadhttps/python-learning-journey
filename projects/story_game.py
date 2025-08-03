@@ -1,4 +1,3 @@
-##generate a story game with replace the words with the user input
 
 def generate_story():
     story=input("Enter a story: ")
